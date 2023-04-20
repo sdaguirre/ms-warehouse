@@ -1,0 +1,5 @@
+rootProject.name = 'warehouse'
+include 'WarehouseDomain'
+include 'WarehouseApplication'
+include 'SharedKernel'
+
